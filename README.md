@@ -1,6 +1,6 @@
 # Lambda Terraform module
 
-Terraform module, which creates almost all supported AWS Lambda resources.
+Terraform module for Lambda.
 
 ## Step by Step
 
